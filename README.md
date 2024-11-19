@@ -26,7 +26,7 @@ O **ApiRickEndMorty** permite ao usuário procurar por personagens da série *Ri
 ### Tela Inicial / Home Screen
 
 <div style="display: flex; flex-direction: row;">
-  <img src="https://github.com/Jonemanuel/ApiRickEndMorty/blob/main/assets/readme/rick-morty-screen.png" alt="Home Screen" width="1000"/>
+  <img src="https://github.com/Jonemanuel/ApiRickEndMorty/blob/main/readme/Captura%20de%20tela%20de%202024-11-19%2011-41-09.png?raw=true" alt="Home Screen" width="1000"/>
 </div>
 
 ## Tecnologias Utilizadas / Technologies Used
